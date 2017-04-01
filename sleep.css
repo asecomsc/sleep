@@ -1,0 +1,18 @@
+button {
+	font-size: 80px;
+	padding: 80px;
+	background-color: #1f1f1f;
+	color: #666666;
+}
+#caja {
+	 margin-top: 200px;
+     margin-left: 320px;
+}
+body {
+     background-color: black;	
+}
+p {
+	color: #4d4d4d;
+	font-size: 40px;
+	padding: 70px;
+}
