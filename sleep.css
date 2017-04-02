@@ -13,7 +13,10 @@ body {
 }
 p {
 	color: #4d4d4d;
-	font-size: 40px;
+	font-size: 120px;
 	font-weight: bold;
-	padding: 50px;
+	margin-bottom: 5px;
+}
+#tres {
+		font-size: 70px;
 }
