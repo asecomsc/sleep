@@ -14,5 +14,6 @@ body {
 p {
 	color: #4d4d4d;
 	font-size: 40px;
-	padding: 70px;
+	font-weight: bold;
+	padding: 50px;
 }
