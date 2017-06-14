@@ -1,8 +1,10 @@
 button {
-	font-size: 80px;
+	font-size: 60px;
 	padding: 80px;
-	background-color: #1f1f1f;
-	color: #666666;
+	background-color: black;
+	color: white;
+	position: absolute;
+    bottom: 300px;
 }
 #caja {
 	 margin-top: 200px;
